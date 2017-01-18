@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\HouseExampleObjectOriented\HouseExampleObjectOriented\bin\Debug\HouseExampleObjectOriented.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HouseExampleObjectOriented\HouseExampleObjectOriented\bin\Debug\HouseExampleObjectOriented.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HouseExampleObjectOriented\HouseExampleObjectOriented\bin\Debug\HouseExampleObjectOriented.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HouseExampleObjectOriented\HouseExampleObjectOriented\obj\Debug\HouseExampleObjectOriented.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HouseExampleObjectOriented\HouseExampleObjectOriented\obj\Debug\HouseExampleObjectOriented.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HouseExampleObjectOriented\HouseExampleObjectOriented\obj\Debug\HouseExampleObjectOriented.pdb
